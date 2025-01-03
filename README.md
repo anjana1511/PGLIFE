@@ -80,7 +80,7 @@
 1. **Clone this repository:**
 
    ```bash
-   git clone https://github.com/yourusername/PG-Life.git
+   git clone https://github.com/anjana1511/PG-Life.git
    ```
 
 2. **Set up the database:**
